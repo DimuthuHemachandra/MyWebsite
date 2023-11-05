@@ -4,25 +4,25 @@ authors:
 bio: medical doctor turned neuroscientist and image analyst.
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
+  - course: PhD in Biomedical Engineering
+    institution: University of Western Ontario
+    year: May 2018 - Aug 2023
+  - course: MSc in Astrophysics
+    institution: University of Western Ontario
+    year: Sep 2012 - Apr 2014
+  - course: B.Sc. in Physics
+    institution: University of Peradeniya
+    year: May 2007 - Sep 2011
+email: "dhemacha@uwo.ca"
 interests:
 - Neuroscience
 - Neuroimaging
-- Anesthesia
 - Open science
-- Software
-name: Nikoloz Sirmpilatze
+- Physics
+- Astrophysics
+name: Dimuthu Hemachandra
 organizations:
-- name: Sainsbury Wellcome Centre
+- name: Robarts Research Institute
   url: "https://www.sainsburywellcome.org/web/"
 - name: Gatsby Computational Neuroscience Unit
   url: "https://www.ucl.ac.uk/gatsby/"
@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I'm Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
 
 I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
