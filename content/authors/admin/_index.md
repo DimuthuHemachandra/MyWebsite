@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: An Astrophysicist turned Biomedical Engineer and Neuroscientist
 education:
   courses:
   - course: PhD in Biomedical Engineering
@@ -47,9 +47,11 @@ user_groups:
 
 I'm Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. Since May 2018, I work as a Researcher at the [Robarts Research Institute](https://www.robarts.ca/index.html) at the [University of Western Ontario](https://www.uwo.ca/index.html).
 
-I completed my PhD at the [Khan Computational Imaging Lab](hhttps://www.khanlab.ca/) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
+I completed my PhD at the [Khan Computational Imaging Lab](hhttps://www.khanlab.ca/), where I studied the subcortical brain structures and brain connectivity using machine learning to detect neuro-degenerative diseases. 
 
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
+I'm passionate about promoting open and collaborative science. I believe that sharing knowledge and working together is the key to progress.
+
+In my free time, you'll find me exploring new places and capturing moments with my camera. 
 
 
 
