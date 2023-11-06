@@ -23,31 +23,34 @@ interests:
 name: Dimuthu Hemachandra
 organizations:
 - name: Robarts Research Institute
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
+  url: "https://www.robarts.ca/index.html"
+- name: Khan Computational Imaging Lab
+  url: "hhttps://www.khanlab.ca/"
+- name: University of Western Ontario
+  url: "https://www.uwo.ca/index.html"
+role: Post Graduate Researcher
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/niksirbi
+  link:  https://twitter.com/dimuthuH
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+  link: https://shorturl.at/btNW6
 - icon: github
   icon_pack: fab
-  link: https://github.com/niksirbi
+  link: https://github.com/Dimuthuhemachandra
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I'm Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I'm Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. Since May 2018, I work as a Researcher at the [Robarts Research Institute](https://www.robarts.ca/index.html) at the [University of Western Ontario](https://www.uwo.ca/index.html).
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
+I completed my PhD at the [Khan Computational Imaging Lab](hhttps://www.khanlab.ca/) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
 I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
+
+
+
 
