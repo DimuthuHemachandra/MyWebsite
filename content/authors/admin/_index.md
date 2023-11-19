@@ -54,5 +54,3 @@ I'm passionate about promoting open and collaborative science. I believe that sh
 In my free time, you'll find me exploring new places and capturing moments with my camera. 
 
 
-
-

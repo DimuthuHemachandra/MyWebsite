@@ -1,0 +1,39 @@
+TY  - JOUR
+AU  - Taha, Alaa
+AU  - Gilmore, Greydon
+AU  - Abbass, Mohamad
+AU  - Kai, Jason
+AU  - Kuehn, Tristan
+AU  - Demarco, John
+AU  - Gupta, Geetika
+AU  - Zajner, Chris
+AU  - Cao, Daniel
+AU  - Chevalier, Ryan
+AU  - Ahmed, Abrar
+AU  - Hadi, Ali
+AU  - Karat, Bradley G.
+AU  - Stanley, Olivia W.
+AU  - Park, Patrick J.
+AU  - Ferko, Kayla M.
+AU  - Hemachandra, Dimuthu
+AU  - Vassallo, Reid
+AU  - Jach, Magdalena
+AU  - Thurairajah, Arun
+AU  - Wong, Sandy
+AU  - Tenorio, Mauricio C.
+AU  - Ogunsanya, Feyi
+AU  - Khan, Ali R.
+AU  - Lau, Jonathan C.
+PY  - 2023
+DA  - 2023/07/12
+TI  - Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration
+JO  - Scientific Data
+SP  - 449
+VL  - 10
+IS  - 1
+AB  - Tools available for reproducible, quantitative assessment of brain correspondence have been limited. We previously validated the anatomical fiducial (AFID) placement protocol for point-based assessment of image registration with millimetric (mm) accuracy. In this data descriptor, we release curated AFID placements for some of the most commonly used structural magnetic resonance imaging datasets and templates. The release of our accurate placements allows for rapid quality control of image registration, teaching neuroanatomy, and clinical applications such as disease diagnosis and surgical targeting. We release placements on individual subjects from four datasets (N = 132 subjects for a total of 15,232 fiducials) and 14 brain templates (4,288 fiducials), totalling more than 300 human rater hours of annotation. We also validate human rater accuracy of released placements to be within 1 – 2 mm (using more than 45,000 Euclidean distances), consistent with prior studies. Our data is compliant with the Brain Imaging Data Structure allowing for facile incorporation into neuroimaging analysis pipelines.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/s41597-023-02330-9
+DO  - 10.1038/s41597-023-02330-9
+ID  - Taha2023
+ER  - 
