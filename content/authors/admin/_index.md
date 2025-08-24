@@ -22,13 +22,17 @@ interests:
 - Astrophysics
 name: Dimuthu Hemachandra
 organizations:
+- name: Stanford University
+  url: "https://med.stanford.edu/poston-lab/people.html#postdocs"
+- name: SRI international
+  url: "https://www.sri.com/"
 - name: Robarts Research Institute
   url: "https://www.robarts.ca/index.html"
 - name: Khan Computational Imaging Lab
   url: "hhttps://www.khanlab.ca/"
 - name: University of Western Ontario
   url: "https://www.uwo.ca/index.html"
-role: Post Graduate Researcher
+role: Post Doctoral Research Fellow
 social:
 - icon: twitter
   icon_pack: fab
@@ -45,12 +49,19 @@ user_groups:
 - Visitors
 ---
 
-I'm Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. Since May 2018, I work as a Researcher at the [Robarts Research Institute](https://www.robarts.ca/index.html) at the [University of Western Ontario](https://www.uwo.ca/index.html).
 
-I completed my PhD at the [Khan Computational Imaging Lab](hhttps://www.khanlab.ca/), where I studied the subcortical brain structures and brain connectivity using machine learning to detect neuro-degenerative diseases. 
+I’m Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. I study brain connectivity using machine learning and AI to better understand and detect neurodegenerative diseases. My work focuses on building data-driven models that advance neuroscience and support human health.
 
-I'm passionate about promoting open and collaborative science. I believe that sharing knowledge and working together is the key to progress.
+Currently, I’m a Postdoctoral Research Fellow at the [Stanford University School of Medicine] (https://med.stanford.edu/poston-lab/people.html#postdocs)
+, [working in collaboration with SRI International] (https://www.sri.com/)
+. Here, I develop image preprocessing pipelines to study the brain’s waste clearance system and explore its role in neurodegenerative diseases.
 
-In my free time, you'll find me exploring new places and capturing moments with my camera. 
+In 2018, I earned my PhD at the [Khan Computational Imaging Lab] (hhttps://www.khanlab.ca/)
+ at the [University of Western Ontario] (https://www.uwo.ca/index.html)
+, where I focused on subcortical brain structures and brain connectivity, applying machine learning to detect neurodegenerative diseases.
+
+I’m passionate about open and collaborative science—because I believe sharing knowledge and working together is the key to real progress.
+
+When I’m not in the lab, you’ll probably find me exploring new places and capturing moments with my camera.
 
 
