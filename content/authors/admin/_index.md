@@ -43,6 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Dimuthuhemachandra
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/dimuthuhemachandra.bsky.social
 superuser: true
 user_groups:
 - Researchers
@@ -63,5 +66,7 @@ In 2018, I earned my PhD at the [Khan Computational Imaging Lab](hhttps://www.kh
 I’m passionate about open and collaborative science—because I believe sharing knowledge and working together is the key to real progress.
 
 When I’m not in the lab, you’ll probably find me exploring new places and capturing moments with my camera.
+
+
 
 
