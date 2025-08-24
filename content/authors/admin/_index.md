@@ -44,7 +44,7 @@ social:
   icon_pack: fab
   link: https://github.com/Dimuthuhemachandra
 - icon: bluesky
-  icon_pack: fab
+  icon_pack: ai
   link: https://bsky.app/profile/dimuthuhemachandra.bsky.social
 superuser: true
 user_groups:
