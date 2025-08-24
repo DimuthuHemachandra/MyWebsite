@@ -52,12 +52,12 @@ user_groups:
 
 I’m Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. I study brain connectivity using machine learning and AI to better understand and detect neurodegenerative diseases. My work focuses on building data-driven models that advance neuroscience and support human health.
 
-Currently, I’m a Postdoctoral Research Fellow at the [Stanford University School of Medicine] (https://med.stanford.edu/poston-lab/people.html#postdocs)
-, [working in collaboration with SRI International] (https://www.sri.com/)
+Currently, I’m a Postdoctoral Research Fellow at the [Stanford University School of Medicine](https://med.stanford.edu/poston-lab/people.html#postdocs)
+, [working in collaboration with SRI International](https://www.sri.com/)
 . Here, I develop image preprocessing pipelines to study the brain’s waste clearance system and explore its role in neurodegenerative diseases.
 
-In 2018, I earned my PhD at the [Khan Computational Imaging Lab] (hhttps://www.khanlab.ca/)
- at the [University of Western Ontario] (https://www.uwo.ca/index.html)
+In 2018, I earned my PhD at the [Khan Computational Imaging Lab](hhttps://www.khanlab.ca/)
+ at the [University of Western Ontario](https://www.uwo.ca/index.html)
 , where I focused on subcortical brain structures and brain connectivity, applying machine learning to detect neurodegenerative diseases.
 
 I’m passionate about open and collaborative science—because I believe sharing knowledge and working together is the key to real progress.
