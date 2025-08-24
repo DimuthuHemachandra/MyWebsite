@@ -50,6 +50,7 @@ user_groups:
 ---
 
 
+
 I’m Dimuthu, an Astrophysicist turned Biomedical Engineer and Neuroscientist. I study brain connectivity using machine learning and AI to better understand and detect neurodegenerative diseases. My work focuses on building data-driven models that advance neuroscience and support human health.
 
 Currently, I’m a Postdoctoral Research Fellow at the [Stanford University School of Medicine](https://med.stanford.edu/poston-lab/people.html#postdocs)
